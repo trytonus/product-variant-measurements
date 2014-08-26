@@ -1,0 +1,5 @@
+[run]
+source = trytond.modules.product_variant_measurements
+
+[report]
+omit = */tests/*, */setup.py
