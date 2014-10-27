@@ -1,2 +1,2 @@
-product-variant-measurements
+Product Variant Measurements
 ============================
