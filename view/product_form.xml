@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <data>
     <xpath expr="/form/notebook" position="inside">
-        <page id="variant_measurenments" string="Variant Measurements" 
+        <page id="variant_measurements" string="Variant Measurements" 
             states="{'invisible': Eval('type').in_(['service'])}"  col="3">
             <label name="length"/>
             <field name="length"/>
