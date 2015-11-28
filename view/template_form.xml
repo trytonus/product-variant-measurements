@@ -1,0 +1,4 @@
+<data>
+    <xpath expr="//page[@id='measurements']" position="replace">
+    </xpath>
+</data>
