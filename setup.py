@@ -77,7 +77,7 @@ minor_version = int(minor_version)
 
 requires = []
 
-MODULE2PREFIX = {'product_notebook': 'openlabs'}
+MODULE2PREFIX = {'product_notebook': 'fio'}
 
 MODULE = "product_variant_measurements"
 PREFIX = "fio"
